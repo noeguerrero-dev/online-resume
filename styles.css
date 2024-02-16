@@ -223,3 +223,7 @@ button:hover {
     color: darkred;
     cursor: url('images/templatshieldhovermouse.png'), auto;
 }
+
+.company-images {
+    width: 75px;
+}
