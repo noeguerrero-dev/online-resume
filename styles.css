@@ -1,6 +1,12 @@
 body {
     margin: 0%;
 }
+
+#section-about-me, #section-experience{
+    scroll-behavior: smooth;
+}
+
+
   
 .nav-bar {
     border: 2px solid black;
