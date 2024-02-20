@@ -2,7 +2,11 @@ body {
     margin: 0%;
 }
 
-#section-about-me, #section-experience{
+#section-about-me{
+    scroll-behavior: smooth;
+}
+
+#section-experience{
     scroll-behavior: smooth;
 }
 
