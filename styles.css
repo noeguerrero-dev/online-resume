@@ -1,15 +1,10 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     margin: 0%;
 }
-
-#section-about-me{
-    scroll-behavior: smooth;
-}
-
-#section-experience{
-    scroll-behavior: smooth;
-}
-
 
   
 .nav-bar {
