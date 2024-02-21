@@ -204,7 +204,8 @@ button:hover {
 }
 
 .box-contact-me {
-    text-align: left;
+    text-align: center;
+    align-items: center;
     padding-left: 20%;
     padding-right: 20%;
     margin-bottom: 2%;
