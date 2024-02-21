@@ -203,6 +203,14 @@ button:hover {
     margin-top: 2%;
 }
 
+.box-contact-me {
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
 .experience-companies{
     color: black;
     text-decoration: underline;
